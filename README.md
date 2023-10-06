@@ -1,2 +1,1 @@
-# github
-new
+this is my new repositary
